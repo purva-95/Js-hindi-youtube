@@ -1,4 +1,15 @@
-// datatypes
-let score = "33"
+// datatype);
+//"33abc"=> NaN
+// true => 1
+// false => 0
 
-console.log(typeof score);
+//let isLoggedIn = "purva"
+
+//let booleanIsLoggedIn = Boolean(isLoggedIn)
+//console.log(booleanLoggedIn);
+//console.log("purva");
+let someNumber =33
+
+let someNumber = String(someNumber)
+console.log(stringNumber);
+console.log(typeof stringNumber);
