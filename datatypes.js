@@ -8,8 +8,12 @@
 //let booleanIsLoggedIn = Boolean(isLoggedIn)
 //console.log(booleanLoggedIn);
 //console.log("purva");
-let someNumber =33
+//let someNumber =33
 
-let someNumber = String(someNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+//let someNumber = String(someNumber)
+//console.log(stringNumber);
+//console.log(typeof stringNumber);
+
+//let value = 3
+//let negValue = -value
+//console.log(negValue);
