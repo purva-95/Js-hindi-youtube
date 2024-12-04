@@ -1,11 +1,20 @@
-const score = 100
-const scoreValue = 100.3
+//let userOne = {
+    email: "user@google.com",
+}
 
-const isLoggedIn = false
-const outsideTemp = null
-let userEmail ;
+//let userTwo = userOne
 
-const id = symbol('123')
-const anotherId = symbol('123')
+//userTwo.email = "hitesh@google.com"
 
-console.log("hello");
+//console.log(userOne.email);
+c//onsole.log(userTwo.email);
+
+// Stack (primitive), Heap (Non-primitive)
+
+
+
+
+
+
+
+
